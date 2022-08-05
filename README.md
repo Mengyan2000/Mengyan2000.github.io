@@ -1,4 +1,4 @@
-## Welcome to Mengyan's Website
+## Welcome to My Website
 
 I am a student studying at UIUC
 
@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### CopyRight
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mengyan2000/Mengyan2000.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Pages site uses the layout and styles from the Jekyll theme from [repository settings](https://github.com/Mengyan2000/Mengyan2000.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Email the supporter [Mandy Liu](mailto: mengyan.liu2000@gmail.com) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
