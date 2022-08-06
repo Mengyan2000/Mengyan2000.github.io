@@ -1,30 +1,17 @@
-## Welcome to My Website
-
-I am a student studying at UIUC
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hello strangers! Welcome to my world
 
 ```markdown
-Syntax highlighted code block
+I am a student studying at UIUC and pusuring Bachelor's degree in computer engineering, minoring in math. I am interested in work as software developer in big companies, so that I can enjoy big perks hahaha! 
 
-# Header 1
-## Header 2
-### Header 3
+In case you don't know, I love hiking, listening to music, do roadtrip and eat Chinese food!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### My achievements
+
+[resume](./src/Resume_2022.pdf)
+
+
 
 ### CopyRight
 
